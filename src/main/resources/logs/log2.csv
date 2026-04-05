@@ -1,0 +1,5 @@
+timestamp,userId,action,bytes,status
+2026-03-01T11:00:00Z,sam,UPLOAD,512,500
+2026-03-01T11:05:00Z,mina,DOWNLOAD,128,200
+bad,line,that,will_fail
+2026-03-01T11:10:00Z,ana,UPLOAD,-5,200
